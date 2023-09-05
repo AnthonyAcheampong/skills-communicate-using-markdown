@@ -5,3 +5,6 @@
 ###### This is an `<h6>` header, which is the smallest
 
 I added a header to the files
+
+
+alt-text![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
